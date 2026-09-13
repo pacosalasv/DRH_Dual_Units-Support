@@ -8,7 +8,7 @@
 
 # DRH - Dual Units
 
-### Public Support Hub · Documentation · Feedback · Available on Blendkit
+### Public Support Hub · Documentation · Feedback · Available on BlendKit
 
 **Dual-unit transform values and scene measurement tools.**
 
@@ -22,7 +22,7 @@
 **Part of the DRH Add-ons ecosystem - Blender tools, updates, and releases.**
 
 [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![Available on Blendkit](https://img.shields.io/badge/Blendkit-FREE%20Download-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/4c29e51b-2fc4-4b44-86f4-20139299b434/)
+[![Available on BlendKit](https://img.shields.io/badge/BlendKit-FREE%20Download-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
 
 </div>
 
@@ -96,33 +96,6 @@ Instead of repeatedly changing scene unit settings manually or relying on mental
 
 ## Media preview
 
-<!--
-
-### Demo video
-
-Replace `YOUTUBE_VIDEO_ID` with your real YouTube video ID.
-
-Example:
-https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID" target="_blank">
-    <img width="720" alt="DRH - Dual Units demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
-  </a>
-  <br>
-  <sub>Click the image to watch the demo on YouTube.</sub>
-</div>
--->
-
-<!--
-### Quick demo GIF
-
-Recommended size: 1280x720 or 960x540.
-
-<div align="center">
-  <img width="720" alt="DRH - Dual Units quick demo" src="docs/media/dual-units-demo.gif" />
-</div>
--->
 
 ### Screenshots
 
@@ -314,11 +287,11 @@ DRH - Dual Units is designed for:
 | **Blender location** | N Panel > DRH - Dual Units |
 | **Platforms** | Windows, macOS, Linux |
 | **Release type** | Free public release |
-| **Official distribution** | Blendkit only |
-| **Free download on Blendkit** | [DRH - Dual Units](https://www.blendkit.com/asset-gallery-detail/4c29e51b-2fc4-4b44-86f4-20139299b434/) |
+| **Official distribution** | BlendKit only |
+| **Free download on BlendKit** | [DRH - Dual Units & Measurements](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) |
 | **Support repository** | [DRH - Dual Units Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
 
-DRH - Dual Units is free for everyone. Official releases and installable packages are distributed exclusively through Blendkit. This GitHub repository is the public support and documentation hub; it does not host official release packages. Use it for compatibility feedback, bug reports, documentation, and workflow suggestions across supported Blender versions.
+DRH - Dual Units is free for everyone. Official releases and installable packages are distributed exclusively through BlendKit. This GitHub repository is the public support and documentation hub; it does not host official release packages. Use it for compatibility feedback, bug reports, documentation, and workflow suggestions across supported Blender versions.
 
 ---
 
@@ -343,7 +316,7 @@ Feedback is especially welcome on:
 - Label placement, color, size, and offset behavior
 - Viewport overlay behavior
 - Documentation clarity
-- Blendkit listing or download feedback
+- BlendKit listing or download feedback
 - Workflow expectations for future versions
 
 Useful feedback examples:
@@ -364,7 +337,7 @@ Useful feedback examples:
 
 ## Quick links
 
-- [Download DRH - Dual Units free on Blendkit](https://www.blendkit.com/asset-gallery-detail/4c29e51b-2fc4-4b44-86f4-20139299b434/)
+- [Download DRH - Dual Units & Measurements free on BlendKit](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
 - [Support repository](https://github.com/pacosalasv/DRH_Dual_Units-Support)
 - [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Dual_Units-Support/discussions)
 - [Open a new issue](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues/new/choose)
@@ -409,7 +382,7 @@ For compatibility issues, please also include:
 - FAQ
 - Suggestions
 - Release feedback
-- Blendkit listing or download feedback
+- BlendKit listing or download feedback
 - Workflow ideas
 
 ---
@@ -428,7 +401,7 @@ For compatibility issues, please also include:
 - Transform lock or edit issues
 - Feature requests
 - Regressions
-- Blendkit listing or download problems
+- BlendKit listing or download problems
 - Documentation errors
 
 ---
@@ -494,9 +467,9 @@ DRH - Dual Units is **free for everyone**.
 
 Official download and release distribution:
 
-- [Blendkit - Free Download](https://www.blendkit.com/asset-gallery-detail/4c29e51b-2fc4-4b44-86f4-20139299b434/)
+- [BlendKit - Free Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
 
-Official installable releases are distributed exclusively through Blendkit. This GitHub repository is intentionally kept as a support, documentation, feedback, and issue-tracking hub rather than a release-download mirror.
+Official installable releases are distributed exclusively through BlendKit. This GitHub repository is intentionally kept as a support, documentation, feedback, and issue-tracking hub rather than a release-download mirror.
 
 This GitHub repository remains the central public location for:
 
