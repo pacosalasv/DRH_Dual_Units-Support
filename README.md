@@ -1,38 +1,16 @@
 <div align="center">
-  <img width="680" alt="DRH - Dual Units banner" src="docs/media/Logo.png" />
-</div>
 
-<br>
-
-<div align="center">
+<img width="860" alt="DRH - Dual Units featured image" src="docs/media/Featured_Image.png" />
 
 # DRH - Dual Units
 
-### Support · Documentation · Feedback · Available on BlendKit
+**Dual-unit transform values and scene measurement tools**
 
-Dual-unit transform values and scene measurement tools.
+![Status](https://img.shields.io/badge/Status-Released-22C55E?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.1.0-00B7FF?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/status-Released-22C55E?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.1.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
-
-<br>
-
-DRH Blender Tools: support, documentation, and release information.
-
-[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![Available on BlendKit](https://img.shields.io/badge/BlendKit-FREE%20Download-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
-
-</div>
-
----
-
-<div align="center">
-
-DRH - Dual Units helps Blender users review Location, Rotation, Scale, and Dimensions with active scene units and alternate units visible side by side.
-
-This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and release feedback for DRH - Dual Units.
+[![Download](https://img.shields.io/badge/Download-Open-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -44,61 +22,19 @@ DRH - Dual Units is a Blender workflow utility designed to make unit review, alt
 
 It is intended for modelers, makers, 3D printing users, product visualization artists, architecture-adjacent users, asset creators, technical artists, and Blender users who need to move between real-world unit systems or verify object dimensions during production.
 
-Instead of repeatedly changing scene unit settings manually or relying on mental conversions, DRH - Dual Units provides a familiar transform-style panel where scene units and alternate units can be reviewed side by side.
+## Product status
 
----
-
-## Media preview
-
-### Screenshots
-
-<div align="center">
-
-| Transform Panel Alternate Units | Object Labels and Placement |
+| Item | Details |
 |---|---|
-| <img height="420" alt="Transform Panel with Alternate Units" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="Object Labels and Placement" src="docs/media/ScreenShot_02.png" /> |
+| Status | **Released** |
+| Version | 1.1.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Free public release. |
+| Distribution | Official installable releases are distributed through the linked download page. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
 
-</div>
-
-<details>
-  <summary><strong>More Screenshots...</strong></summary>
-
-<div align="center">
-
-| Units and Panel Settings |
-|---|
-| <img height="420" alt="Units and Panel Settings" src="docs/media/ScreenShot_03.png" /> |
-
-</div>
-
-</details>
-
----
-
-## What DRH - Dual Units does
-
-DRH - Dual Units adds a dedicated Blender sidebar workflow for scene units, alternate unit display, transform review, and object display labeling.
-
-It is designed to emulate Blender’s familiar Transform panel while adding the dual-unit visibility Blender does not provide by default.
-
-Use it to:
-
-| Details |
-|---|
-| View scene units and alternate units side by side |
-| Review Location, Rotation, Scale, and Dimensions without manual conversion |
-| Switch between practical scene unit presets |
-| Show alternate dimensions, location, and rotation values |
-| Format alternate values with precision, brackets, and split-unit display |
-| Swap scene and alternate unit workflows when supported |
-| Lock and edit transform values from a familiar transform-style interface |
-| Show or hide rotation mode and scale controls in the panel |
-| Apply object display settings to selected objects |
-| Display object names outside object bounds with configurable anchor, position, size, color, and offset |
-| Reset scene and add-on settings to defaults |
-| Keep measurement and viewport review tools available from the 3D View UI |
-
----
+GitHub is used for documentation, support, issues, and release information; installable packages are not mirrored here.
 
 ## Capabilities
 
@@ -122,10 +58,17 @@ Use it to:
 | Scene and object property registration for persistent settings |
 | Local Blender add-on workflow with no external service requirement |
 
----
+## Media
+
+| Preview | Preview |
+|---|---|
+| <img width="420" alt="DRH - Dual Units Screenshot 1" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Dual Units Screenshot 2" src="docs/media/ScreenShot_02.png" /> |
+| <img width="420" alt="DRH - Dual Units Screenshot 3" src="docs/media/ScreenShot_03.png" /> |  |
+
+## Product reference
 
 <details>
-  <summary>Feature reference</summary>
+<summary>Open detailed feature reference</summary>
 
 ## Feature reference
 
@@ -220,119 +163,40 @@ Use it to:
 
 </details>
 
----
+## Documentation and support
 
-## Intended users
-
-DRH - Dual Units is designed for:
-
-| Details |
-|---|
-| Blender modelers |
-| 3D printing users |
-| Makers |
-| Product visualization artists |
-| Asset creators |
-| Technical artists |
-| Architecture-adjacent Blender users |
-| Users working with real-world scale |
-| Users working between metric and imperial references |
-| Users who need fast unit switching |
-| Users who want clearer measurement, labeling, and scale-review workflows |
-| Users preparing models for clients, collaborators, manufacturing references, or technical asset review |
-
----
-
-## Status
-
-| Item | Details |
+| Resource | Link |
 |---|---|
-| Status | 🟢 Released |
-| Current version | 1.1.0 |
-| Minimum Blender version | 4.2.0 |
-| Blender location | N Panel > DRH - Dual Units |
-| Platforms | Windows, macOS, Linux |
-| Release type | Free public release |
-| Official distribution | BlendKit only |
-| Free download on BlendKit | [DRH - Dual Units & Measurements](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) |
-| Support repository | [DRH - Dual Units Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
+| User manual | [User manual](docs/manual/user-manual.pdf) |
+| Support guide | [Support guide](SUPPORT.md) |
+| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
+| Product changelog | [Product changelog](CHANGELOG.md) |
+| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Dual_Units-Support/discussions) |
+| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues/new/choose) |
 
-DRH - Dual Units is free for everyone. Official releases and installable packages are distributed exclusively through BlendKit. This GitHub repository is the public support and documentation hub; it does not host official release packages. Use it for compatibility feedback, bug reports, documentation, and workflow suggestions across supported Blender versions.
+Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
 
----
-
-## Technical notes
-
-This add-on is source based, with:
-
-- No obfuscation
-- No binary-only content
-- No external services
-- No account requirements
-
-Local system access may be used only for normal Blender workflows such as saving files, loading assets, exporting data, or using project resources when applicable.
-
-The add-on is intended to work locally inside Blender.
-
----
-
-## Availability
-
-DRH - Dual Units is free for everyone.
-
-Official download and release distribution:
-
-- [BlendKit - Free Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
-
-Official installable releases are distributed exclusively through BlendKit. This GitHub repository is intentionally kept as a support, documentation, feedback, and issue-tracking hub rather than a release-download mirror.
-
-This GitHub repository remains the central public location for:
-
-| Details |
-|---|
-| Support |
-| Documentation |
-| Issue tracking |
-| Compatibility reports |
-| Public feedback |
-| Release notes |
-
----
-
-## Documentation
-
-- [User manual](docs/manual/user-manual.pdf)
-- [Manual changelog](docs/manual/manual-changelog.md)
-- [Product changelog](CHANGELOG.md)
-- [Support guide](SUPPORT.md)
-
-## Support
-
-Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Dual_Units-Support/discussions) for setup questions, workflow guidance, usage help, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
-
-See [SUPPORT.md](SUPPORT.md) for the shared DRH support format, the information to include in a report, and public-information guidance.
+Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
 
 ## Support DRH development
 
-DRH development support is optional. Ko-fi contributions help cover maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
+If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+    <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
 </div>
 
-## Ecosystem links
+## DRH ecosystem
 
-- [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
-- [BlendKit](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
-- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
-- [Ko-fi](https://ko-fi.com/pacosalasv)
+| Destination | Link |
+|---|---|
+| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Download | [Official download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) |
+| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
 
 ## License
 
-This repository is distributed under GPL-3.0-or-later. See [LICENSE](LICENSE).
-
----
-
-Authored by Paco Salas | DRH.
+See [LICENSE](LICENSE) for repository licensing terms.
