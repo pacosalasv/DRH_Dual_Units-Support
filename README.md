@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="860" alt="DRH - Dual Units featured image" src="docs/media/Featured_Image.png" />
+<img width="860" alt="DRH - Dual Units & Measurements featured image" src="docs/media/Featured_Image.png" />
 
-# DRH - Dual Units
+# DRH - Dual Units & Measurements
 
-**Dual-unit transform values and scene measurement tools**
+**Review metric and imperial measurements side by side with scale-aware Blender workflows**
 
-![Status](https://img.shields.io/badge/Status-Released-22C55E?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.1.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Released-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.1.0-00B7FF?style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-Windows%2C%20macOS%2C%20Linux-334155?style=for-the-badge)
 
-[![Download](https://img.shields.io/badge/Download-Open-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![Download](https://img.shields.io/badge/Download-Open-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add-ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -60,19 +58,22 @@ GitHub is used for documentation, support, issues, and release information; inst
 
 ## Media
 
-| Preview | Preview |
-|---|---|
-| <img width="420" alt="DRH - Dual Units Screenshot 1" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Dual Units Screenshot 2" src="docs/media/ScreenShot_02.png" /> |
-| <img width="420" alt="DRH - Dual Units Screenshot 3" src="docs/media/ScreenShot_03.png" /> |  |
+Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
+
+<div align="center">
+  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 02" src="docs/media/ScreenShot_02.png" />
+  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 03" src="docs/media/ScreenShot_03.png" />
+</div>
 
 ## Product reference
 
 <details>
 <summary>Open detailed feature reference</summary>
 
-## Feature reference
+### Feature reference
 
-### Unit switching and presets
+#### Unit switching and presets
 | Details |
 |---|
 | Scene unit preset workflow |
@@ -88,7 +89,7 @@ GitHub is used for documentation, support, issues, and release information; inst
 | Swap Scene / Alternate Units operator |
 | Reset all defaults operator |
 
-### Supported alternate length units
+#### Supported alternate length units
 | Details |
 |---|
 | Meters |
@@ -100,7 +101,7 @@ GitHub is used for documentation, support, issues, and release information; inst
 | Yards |
 | Miles |
 
-### Preset behavior
+#### Preset behavior
 | Details |
 |---|
 | General Metric: metric meters, degrees, alternate inches |
@@ -111,7 +112,7 @@ GitHub is used for documentation, support, issues, and release information; inst
 | Site Imperial: imperial feet, degrees, alternate meters |
 | Carpentry: imperial inches with separate units enabled, alternate millimeters |
 
-### Measurement display
+#### Measurement display
 | Details |
 |---|
 | Show alternate dimensions |
@@ -124,7 +125,7 @@ GitHub is used for documentation, support, issues, and release information; inst
 | Bracket style options |
 | Alternate rotation-unit selection |
 
-### Transform workflow
+#### Transform workflow
 | Details |
 |---|
 | Familiar transform-style panel layout |
@@ -136,7 +137,7 @@ GitHub is used for documentation, support, issues, and release information; inst
 | Converted alternate values beside original transform values |
 | Faster scale checking across metric and imperial workflows |
 
-### Object display tools
+#### Object display tools
 | Details |
 |---|
 | Active object display-type controls |
@@ -149,7 +150,7 @@ GitHub is used for documentation, support, issues, and release information; inst
 | Name offset controls |
 | Viewport overlay redraw/update handling |
 
-### Batch and UI workflow
+#### Batch and UI workflow
 | Details |
 |---|
 | Apply selected display and label settings to selected objects |
@@ -167,20 +168,15 @@ GitHub is used for documentation, support, issues, and release information; inst
 
 | Resource | Link |
 |---|---|
-| User manual | [User manual](docs/manual/user-manual.pdf) |
-| Support guide | [Support guide](SUPPORT.md) |
-| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
-| Product changelog | [Product changelog](CHANGELOG.md) |
-| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Dual_Units-Support/discussions) |
-| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues/new/choose) |
+| Support guide | [SUPPORT.md](SUPPORT.md) |
+| User manual | [PDF manual](docs/manual/user-manual.pdf) |
+| Repository changelog | [CHANGELOG.md](CHANGELOG.md) |
+| Issues | [Open or review issues](https://github.com/pacosalasv/DRH_Dual_Units-Support/issues) |
+| Discussions | [Ask questions and share feedback](https://github.com/pacosalasv/DRH_Dual_Units-Support/discussions) |
 
-Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
+## Support development
 
-Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
-
-## Support DRH development
-
-If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
+Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -188,14 +184,14 @@ If this project or another free DRH tool saves you time, optional Ko-fi support 
   </a>
 </div>
 
-## DRH ecosystem
+## Ecosystem
 
 | Destination | Link |
 |---|---|
-| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Download | [Official download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) |
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| Download | [Official product page](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) |
+| DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
 
