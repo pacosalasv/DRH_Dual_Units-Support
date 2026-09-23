@@ -2,11 +2,11 @@
 
 ## 1.1.0 - Current release
 
-- Current release version synchronized to 1.1.0 based on the maintainer's release status.
+- Current release version: **1.1.0**.
 - Support documentation, issue templates, and public catalog metadata updated for 1.1.0.
 - Installable packages remain distributed through the official BlendKit product page.
 
-> The attached workspace does not include feature-level 1.1.0 release notes, so this changelog does not invent implementation changes that were not supplied.
+> This changelog lists only documented release changes and avoids speculative implementation details.
 
 ## 1.0.0 - Initial release
 

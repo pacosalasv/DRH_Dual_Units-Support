@@ -20,21 +20,7 @@ DRH - Dual Units is a Blender workflow utility designed to make unit review, alt
 
 It is intended for modelers, makers, 3D printing users, product visualization artists, architecture-adjacent users, asset creators, technical artists, and Blender users who need to move between real-world unit systems or verify object dimensions during production.
 
-## Product status
-
-| Item | Details |
-|---|---|
-| Status | **Released** |
-| Version | 1.1.0 |
-| Blender | 4.2+ |
-| Platforms | Windows, macOS, Linux |
-| Availability | Free public release. |
-| Distribution | Official installable releases are distributed through the linked download page. |
-| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
-
-GitHub is used for documentation, support, issues, and release information; installable packages are not mirrored here.
-
-## Capabilities
+## Key features
 
 | Details |
 |---|
@@ -56,22 +42,12 @@ GitHub is used for documentation, support, issues, and release information; inst
 | Scene and object property registration for persistent settings |
 | Local Blender add-on workflow with no external service requirement |
 
-## Media
-
-Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
-
-<div align="center">
-  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 01" src="docs/media/ScreenShot_01.png" />
-  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 02" src="docs/media/ScreenShot_02.png" />
-  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 03" src="docs/media/ScreenShot_03.png" />
-</div>
-
-## Product reference
+## Detailed features
 
 <details>
-<summary>Open detailed feature reference</summary>
+<summary>Open detailed features</summary>
 
-### Feature reference
+### Feature details
 
 #### Unit switching and presets
 | Details |
@@ -164,6 +140,28 @@ Primary product screenshots are shown below. Additional screenshots, when presen
 
 </details>
 
+## Product status
+
+| Item | Details |
+|---|---|
+| Status | **Released** |
+| Version | 1.1.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Free public release. |
+| Distribution | Official installable releases are distributed through the linked download page. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
+
+## Media
+
+Product screenshots:
+
+<div align="center">
+  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 02" src="docs/media/ScreenShot_02.png" />
+  <img width="420" alt="DRH - Dual Units & Measurements ScreenShot 03" src="docs/media/ScreenShot_03.png" />
+</div>
+
 ## Documentation and support
 
 | Resource | Link |
@@ -190,7 +188,8 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 |---|---|
 | Download | [Official product page](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
