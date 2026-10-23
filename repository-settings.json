@@ -1,0 +1,17 @@
+{
+  "description": "Documentation and support for DRH - Dual Units & Measurements, including metric/imperial review and scale-aware workflows.",
+  "homepage": "https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "units",
+    "measurements",
+    "metric",
+    "imperial",
+    "technical-support",
+    "drh"
+  ]
+}
